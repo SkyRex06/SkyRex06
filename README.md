@@ -1,6 +1,6 @@
 ## Hi there, I'm Shivam Prasad! 👋
 
-![Shivam Prasad](https://raw.githubusercontent.com/Shivam-Prasad/Shivam-Prasad/main/image.png)
+(https://raw.githubusercontent.com/SkyRex06/SkyRex06/main/image.png)
 
 ### 🚀 About Me
 
@@ -25,11 +25,11 @@ I'm a passionate **Software Developer** currently pursuing **AI & Data Science a
 
 ### 📊 GitHub Stats & Widgets
 
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam-Prasad&show_icons=true&theme=radical)
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SkyRex06&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Prasad&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyRex06&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivam-Prasad&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SkyRex06&theme=radical)
 
 ### 📫 Connect with Me
 
@@ -40,4 +40,3 @@ I'm a passionate **Software Developer** currently pursuing **AI & Data Science a
 [![Codolio](https://img.shields.io/badge/Codolio-2E86C1?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/SkyRex)
 
 Let's build something amazing together! 🚀
-
