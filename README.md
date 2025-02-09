@@ -1,51 +1,43 @@
-## Hi there 👋
+## Hi there, I'm Shivam Prasad! 👋
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SkyRex06&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-### Hi there 👋, I'm SkyRex06
+![Shivam Prasad](https://raw.githubusercontent.com/Shivam-Prasad/Shivam-Prasad/main/image.png)
 
-[![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=SkyRex06)](https://github.com/SkyRex06)
+### 🚀 About Me
 
-A passionate learner and developer exploring the world of technology!
+I'm a passionate **Software Developer** currently pursuing **AI & Data Science at GGSIPU**. I have a strong interest in **Artificial Intelligence** and **Web Development**, with a dream of working at **Google** someday! ✨
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SkyRex06&theme=dark)](https://git.io/streak-stats)
+### 🔥 Technologies & Skills
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SkyRex06&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+- **Programming Languages:** Python, C, C++
+- **Web Development:** HTML, CSS, JavaScript
+- **Backend Development:** Python (Flask, Django)
+- **Databases:** MySQL
+- **Blockchain Development (Learning)**
+- **Version Control:** Git & GitHub
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyRex06&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+### 💡 Projects
 
-🚀 I'm currently focused on:
-- [Mention your main area of interest, e.g., Web Development, Machine Learning, Cloud Computing]
-- [Mention another area if applicable, e.g., Mobile App Development, Data Science, Cybersecurity]
+- **Solution AI** 📄: A smart document assistant that allows users to upload PDFs and ask questions about the content.
+- **Chatbot Project** 🤖: A chatbot designed to perform specific tasks.
+- **Spotify Clone** 🎵: A Python-based web project to mimic the functionality of Spotify.
+- **Game Launcher UI** 🎮: An HTML, CSS, and Tkinter-based interface to launch games attractively.
+- **Family Tracker App** 🏠: A real-time location tracking app for family members.
 
-🌱 I’m currently learning:
-- [Specific technologies or skills you are learning, e.g., React, Python, AWS]
-- [Another learning goal, e.g.,  Data Structures and Algorithms, DevOps]
+### 📊 GitHub Stats & Widgets
 
-👯 I’m looking to collaborate on:
-- [Types of projects you are interested in collaborating on, e.g., Open Source projects, Web applications, Mobile apps]
-- [Specific project ideas, if you have any]
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shivam-Prasad&show_icons=true&theme=radical)
 
-🤔 I’m looking for help with:
-- [Areas where you need assistance, e.g.,  Improving code architecture,  Learning new frameworks,  Contributing to open source]
-- [Specific technical challenges you are facing]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shivam-Prasad&layout=compact&theme=radical)
 
-💬 Ask me about:
-- [Topics you are knowledgeable and happy to discuss, e.g.,  JavaScript,  Frontend development,  Problem-solving]
-- [Hobbies or interests related to tech, e.g.,  Tech trends,  Gadgets,  Gaming]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shivam-Prasad&theme=radical)
 
-📫 How to reach me:
-- [Your preferred contact method, e.g.,  [Your Email](mailto:your-email@example.com)]
-- [Link to your LinkedIn profile (if you have one), e.g., [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)]
--
-<p align="left">
-<a href="https://twitter.com/your-twitter-handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/0.0.2/src/img/icons/social/twitter.svg" alt="your-twitter-handle" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/0.0.2/src/img/icons/social/linkedin.svg" alt="your-linkedin-profile" height="30" width="40" /></a>
-<a href="https://www.youtube.com/your-youtube-channel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/0.0.2/src/img/icons/social/youtube.svg" alt="your-youtube-channel" height="30" width="40" /></a>
-<a href="https://instagram.com/your-instagram-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/0.0.2/src/img/icons/social/instagram.svg" alt="your-instagram-username" height="30" width="40" /></a>
-</p>
+### 📫 Connect with Me
 
-😄 Pronouns:
-- He/Him/His (or your preferred pronouns)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamprasad5953/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SkyRex06)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/skyrex.sr)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamprasad5953@gmail.com)
+[![Codolio](https://img.shields.io/badge/Codolio-2E86C1?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/SkyRex)
 
-⚡ Fun fact:
-- [A fun or interesting fact about you, preferably related to tech or your interests, e.g.,  "I can type at 80 WPM", "I built my first computer at age 14", "I love automating tasks with Python"]
+Let's build something amazing together! 🚀
+
