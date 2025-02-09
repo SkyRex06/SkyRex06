@@ -1,42 +1,67 @@
-## Hi there, I'm Shivam Prasad! 👋
+<div align="center">
+  <img src="./360_F_824719896_gKb7ueuQjnBROHdABOJMvbiZ1vHX8Xiw.jpg" />
+</div>
 
-(https://raw.githubusercontent.com/SkyRex06/SkyRex06/main/image.png)
+<div align="center">
 
-### 🚀 About Me
+<a target="_blank" href="https://www.linkedin.com/in/shivamprasad5953/"> 
+  <img src="https://img.shields.io/badge/LinkedIn-076678?style=for-the-badge&logo=linkedin&logoColor=white"> 
+</a>
+<a target="_blank" href="https://discord.com/users/skyrex.sr"> 
+  <img src="https://img.shields.io/badge/Discord-873f71?style=for-the-badge&logo=discord&logoColor=white"> 
+</a>
+<a target="_blank" href="https://github.com/SkyRex06"> 
+  <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"> 
+</a>
+<a target="_blank" href="mailto:shivamprasad5953@gmail.com"> 
+  <img src="https://img.shields.io/badge/Gmail-9d0006?style=for-the-badge&logo=gmail&logoColor=white"> 
+</a>
+<a target="_blank" href="https://codolio.com/profile/SkyRex"> 
+  <img src="https://img.shields.io/badge/Codolio-ff6600?style=for-the-badge&logo=About.me&logoColor=white"> 
+</a>
 
-I'm a passionate **Software Developer** currently pursuing **AI & Data Science at GGSIPU**. I have a strong interest in **Artificial Intelligence** and **Web Development**, with a dream of working at **Google** someday! ✨
+</div>
 
-### 🔥 Technologies & Skills
+## <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="28px" height="28px"> About Me
 
-- **Programming Languages:** Python, C, C++
-- **Web Development:** HTML, CSS, JavaScript
-- **Backend Development:** Python (Flask, Django)
-- **Databases:** MySQL
-- **Blockchain Development (Learning)**
-- **Version Control:** Git & GitHub
+<img align="right" src="https://komarev.com/ghpvc/?username=SkyRex06&style=flat-square&color=b57614&label=views" height="25px" alt="watching_count" />
 
-### 💡 Projects
+I am a passionate software developer with a keen interest in problem-solving and cutting-edge technologies. My journey began with Python, which became my go-to language for building projects and solving algorithmic challenges. Over time, I developed a deep interest in Data Structures and Algorithms (DSA), consistently practising to enhance my problem-solving skills.
 
-- **Solution AI** 📄: A smart document assistant that allows users to upload PDFs and ask questions about the content.
-- **Chatbot Project** 🤖: A chatbot designed to perform specific tasks.
-- **Spotify Clone** 🎵: A Python-based web project to mimic the functionality of Spotify.
-- **Game Launcher UI** 🎮: An HTML, CSS, and Tkinter-based interface to launch games attractively.
-- **Family Tracker App** 🏠: A real-time location tracking app for family members.
+Recently, I have been diving into blockchain development, fascinated by its potential to revolutionize industries. I aim to explore smart contracts, decentralized applications (DApps), and the overall blockchain ecosystem. My goal is to integrate AI and blockchain technologies to create innovative and impactful solutions.
 
-### 📊 GitHub Stats & Widgets
+I love working on web development, artificial intelligence, and automation projects. Every challenge I face fuels my curiosity and pushes me to improve continuously. My ambition is to join a company where I can leverage my skills to develop meaningful solutions while continuously learning and growing in the field of technology.
 
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SkyRex06&show_icons=true&theme=radical)
+## <img src="https://cdn3.emoji.gg/emojis/7809-pepe-noted.gif" width="28x" height="28px"> Technical Skills
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SkyRex06&layout=compact&theme=radical)
+<div align="center">
+<table>
+<tr>
+<td>
+<div align="left">
+I am proficient in the following programming languages:
+<br>
+<br>
+<ul>
+<li>Python</li>
+<li>JavaScript</li>
+<li>C/C++</li>
+<li>Solidity</li>
+<li>Java</li>
+<li>SQL</li>
+</ul>
+</div>
+</td>
+<td>
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SkyRex06&theme=gruvbox" />
+</td>
+  
+</tr>
+</table>
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SkyRex06&theme=radical)
+## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px" alt="Stats"> Github Statistics
 
-### 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivamprasad5953/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SkyRex06)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/skyrex.sr)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shivamprasad5953@gmail.com)
-[![Codolio](https://img.shields.io/badge/Codolio-2E86C1?style=for-the-badge&logo=codeforces&logoColor=white)](https://codolio.com/profile/SkyRex)
-
-Let's build something amazing together! 🚀
+<div align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkyRex06&theme=gruvbox" alt="stats" />
+</div>
