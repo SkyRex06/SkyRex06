@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="./360_F_824719896_gKb7ueuQjnBROHdABOJMvbiZ1vHX8Xiw.jpg" />
+  <img src="https://external-preview.redd.it/ai-is-creating-a-generation-of-illiterate-programmers-v0-IkqLEGPZjGEJ0pkBuvZ20DbwS8U0q-QphXE0p4wPYkU.jpg?auto=webp&s=07fe91e2af9f2d31ba7e36a22c27a96c45aa69a4" 
+       alt="AI creating a generation of illiterate programmers" 
+       width="800px"/>
 </div>
+
 
 <div align="center">
 
@@ -22,46 +25,75 @@
 
 </div>
 
-## <img src="https://cdn3.emoji.gg/emojis/2112_wave_animated.gif" width="28px" height="28px"> About Me
+---
 
-<img align="right" src="https://komarev.com/ghpvc/?username=SkyRex06&style=flat-square&color=b57614&label=views" height="25px" alt="watching_count" />
+## 👋 About Me  
 
-I am a passionate software developer with a keen interest in problem-solving and cutting-edge technologies. My journey began with Python, which became my go-to language for building projects and solving algorithmic challenges. Over time, I developed a deep interest in Data Structures and Algorithms (DSA), consistently practising to enhance my problem-solving skills.
+<img align="right" src="https://komarev.com/ghpvc/?username=SkyRex06&style=flat-square&color=b57614&label=views" height="25px" alt="Profile Views" />
 
-Recently, I have been diving into blockchain development, fascinated by its potential to revolutionize industries. I aim to explore smart contracts, decentralized applications (DApps), and the overall blockchain ecosystem. My goal is to integrate AI and blockchain technologies to create innovative and impactful solutions.
+Hi, I’m **Shivam Prasad (SkyRex06)** 👨‍💻, an aspiring **AI/ML Engineer & Full-Stack Developer**.  
 
-I love working on web development, artificial intelligence, and automation projects. Every challenge I face fuels my curiosity and pushes me to improve continuously. My ambition is to join a company where I can leverage my skills to develop meaningful solutions while continuously learning and growing in the field of technology.
+- 🚀 Strong foundation in **Python, Data Structures & Algorithms (DSA), and problem-solving**  
+- 🤖 Building expertise in **Machine Learning, Deep Learning, and Data Analytics**  
+- 🌐 Experienced in **Full-Stack Web Development** with React, Node.js, Express, and Flask  
+- 🛠️ Actively working on projects in **Data Analysis, AI Pipelines, and Web Applications**  
+- 🎯 Goal: Become a **top 1% AI/ML professional**, creating impactful data-driven solutions  
 
-## <img src="https://cdn3.emoji.gg/emojis/7809-pepe-noted.gif" width="28x" height="28px"> Technical Skills
+---
 
-<div align="center">
-<table>
-<tr>
-<td>
-<div align="left">
-I am proficient in the following programming languages:
-<br>
-<br>
-<ul>
-<li>Python</li>
-<li>JavaScript</li>
-<li>C/C++</li>
-<li>Solidity</li>
-<li>Java</li>
-<li>SQL</li>
-</ul>
-</div>
-</td>
-<td>
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SkyRex06&theme=gruvbox" />
-</td>
-  
-</tr>
-</table>
-</div>
+## 🛠️ Tech Stack  
 
-## <img src="https://cdn3.emoji.gg/emojis/9230-stats.png" width="28px" height="28px" alt="Stats"> Github Statistics
+**Languages:**  
+`Python` • `JavaScript` • `C/C++` • `Java` • `SQL`
 
-<div align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SkyRex06&theme=gruvbox" alt="stats" />
-</div>
+**Data Science & AI:**  
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `TensorFlow` • `PyTorch`  
+
+**Web Development:**  
+`HTML` • `CSS` • `React.js` • `Node.js` • `Express.js` • `Flask`  
+
+**Tools & Platforms:**  
+`Git/GitHub` • `VS Code` • `Jupyter Notebook` • `Google Colab` • `Linux`  
+
+---
+
+## 📊 GitHub Statistics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SkyRex06&show_icons=true&theme=gruvbox" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SkyRex06&layout=compact&theme=gruvbox" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkyRex06&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SkyRex06&theme=juicyfresh&margin-w=15&margin-h=15" alt="Trophies"/>
+</p>
+
+---
+
+## 🚀 Featured Projects  
+
+<p align="center">
+  <a href="https://github.com/SkyRex06/Zomato_EDA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkyRex06&repo=Zomato_EDA&theme=gruvbox"/>
+  </a>
+  <a href="https://github.com/SkyRex06/Flight_Pricing_EDA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkyRex06&repo=Flight_Pricing_EDA&theme=gruvbox"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SkyRex06/Black_Friday_EDA">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkyRex06&repo=Black_Friday_EDA&theme=gruvbox"/>
+  </a>
+  <a href="https://github.com/SkyRex06">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkyRex06&repo=SkyRex06&theme=gruvbox"/>
+  </a>
+</p>
+
+---
+
+
