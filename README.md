@@ -1,99 +1,116 @@
-<div align="center">
-  <img src="https://external-preview.redd.it/ai-is-creating-a-generation-of-illiterate-programmers-v0-IkqLEGPZjGEJ0pkBuvZ20DbwS8U0q-QphXE0p4wPYkU.jpg?auto=webp&s=07fe91e2af9f2d31ba7e36a22c27a96c45aa69a4" 
-       alt="AI creating a generation of illiterate programmers" 
-       width="800px"/>
-</div>
+# Hey, I'm Shivam 👋
 
+### AI & Data Science Undergraduate @ GGSIPU
+### Vice President @ AI Renaissance
 
-<div align="center">
-
-<a target="_blank" href="https://www.linkedin.com/in/shivamprasad5953/"> 
-  <img src="https://img.shields.io/badge/LinkedIn-076678?style=for-the-badge&logo=linkedin&logoColor=white"> 
-</a>
-<a target="_blank" href="https://discord.com/users/skyrex.sr"> 
-  <img src="https://img.shields.io/badge/Discord-873f71?style=for-the-badge&logo=discord&logoColor=white"> 
-</a>
-<a target="_blank" href="https://github.com/SkyRex06"> 
-  <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"> 
-</a>
-<a target="_blank" href="mailto:shivamprasad5953@gmail.com"> 
-  <img src="https://img.shields.io/badge/Gmail-9d0006?style=for-the-badge&logo=gmail&logoColor=white"> 
-</a>
-<a target="_blank" href="https://codolio.com/profile/SkyRex"> 
-  <img src="https://img.shields.io/badge/Codolio-ff6600?style=for-the-badge&logo=About.me&logoColor=white"> 
-</a>
-
-</div>
+Building AI-powered products, scalable systems, and innovative solutions that solve real-world problems.
 
 ---
 
-## 👋 About Me  
+<!-- IMAGE 1: Professional Photo OR Best Hackathon Winning Photo -->
 
-<img align="right" src="https://komarev.com/ghpvc/?username=SkyRex06&style=flat-square&color=b57614&label=views" height="25px" alt="Profile Views" />
+<p align="center">
+  <img src="YOUR_IMAGE_HERE" width="850"/>
+</p>
 
-Hi, I’m **Shivam Prasad (SkyRex06)** 👨‍💻, an aspiring **AI/ML Engineer & Full-Stack Developer**.  
+## About Me
 
-- 🚀 Strong foundation in **Python, Data Structures & Algorithms (DSA), and problem-solving**  
-- 🤖 Building expertise in **Machine Learning, Deep Learning, and Data Analytics**  
-- 🌐 Experienced in **Full-Stack Web Development** with React, Node.js, Express, and Flask  
-- 🛠️ Actively working on projects in **Data Analysis, AI Pipelines, and Web Applications**  
-- 🎯 Goal: Become a **top 1% AI/ML professional**, creating impactful data-driven solutions  
+I'm an Artificial Intelligence & Data Science undergraduate at GGSIPU with a strong interest in building products that combine technology, innovation, and real-world impact.
+
+Over the past few years, I've actively participated in hackathons, collaborated with talented teams, and transformed ideas into working products. These experiences have shaped a builder mindset focused on rapid execution, continuous learning, and solving meaningful problems.
+
+My interests currently lie at the intersection of:
+
+- Artificial Intelligence
+- Backend Engineering
+- Product Development
+- Scalable Systems
+- Emerging Technologies
 
 ---
 
-## 🛠️ Tech Stack  
+## Currently Building
 
-**Languages:**  
-`Python` • `JavaScript` • `C/C++` • `Java` • `SQL`
+🚀 AI-Powered Retail Forecasting Platform
 
-**Data Science & AI:**  
-`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `TensorFlow` • `PyTorch`  
+🌌 Exoplanet Prediction System
 
-**Web Development:**  
-`HTML` • `CSS` • `React.js` • `Node.js` • `Express.js` • `Flask`  
+⛓️ Blockchain-Based Voting Platform
 
-**Tools & Platforms:**  
-`Git/GitHub` • `VS Code` • `Jupyter Notebook` • `Google Colab` • `Linux`  
+🧠 Exploring AI Agents & Intelligent Systems
 
 ---
 
-## 📊 GitHub Statistics  
+<!-- IMAGE 2: Project Collage (Dashboard screenshots, product UI, architecture diagrams) -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SkyRex06&show_icons=true&theme=gruvbox" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SkyRex06&layout=compact&theme=gruvbox" height="180px"/>
+  <img src="YOUR_PROJECT_COLLAGE_HERE" width="850"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SkyRex06&theme=tokyonight" alt="GitHub Streak" />
-</p>
+## Community & Leadership
+
+As Vice President of AI Renaissance, I work on fostering a builder culture by organizing workshops, hackathons, technical sessions, and community initiatives that help students learn, build, and grow together.
+
+I enjoy bringing ambitious people together and creating environments where ideas can turn into impactful products.
+
+---
+
+<!-- IMAGE 3: Workshop / Event Organising Photo -->
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SkyRex06&theme=juicyfresh&margin-w=15&margin-h=15" alt="Trophies"/>
+  <img src="YOUR_LEADERSHIP_PHOTO_HERE" width="850"/>
+</p>
+
+## Hackathons
+
+🏆 Winner of multiple inter-college hackathons
+
+🚀 Finalist across national-level hackathons
+
+🌍 Participant in global innovation events including Adobe Hackathon and NASA Space Apps Challenge
+
+💡 Passionate about building under pressure, solving challenging problems, and collaborating with high-performing teams
+
+---
+
+<!-- IMAGE 4: Team Photo / Hackathon Stage Photo -->
+
+<p align="center">
+  <img src="YOUR_HACKATHON_PHOTO_HERE" width="850"/>
+</p>
+
+## Tech I Work With
+
+```txt
+Python • JavaScript • Java • SQL
+
+AI/ML • Django • Flask
+React • Node.js • Express
+
+Git • Linux • Docker
+
+REST APIs • System Design
+```
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SkyRex06&show_icons=true&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyRex06&layout=compact&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects  
+## Connect With Me
 
-<p align="center">
-  <a href="https://github.com/SkyRex06/Zomato_EDA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkyRex06&repo=Zomato_EDA&theme=gruvbox"/>
-  </a>
-  <a href="https://github.com/SkyRex06/Flight_Pricing_EDA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkyRex06&repo=Flight_Pricing_EDA&theme=gruvbox"/>
-  </a>
-</p>
+💼 LinkedIn: www.linkedin.com/in/skyrex06
 
-<p align="center">
-  <a href="https://github.com/SkyRex06/Black_Friday_EDA">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkyRex06&repo=Black_Friday_EDA&theme=gruvbox"/>
-  </a>
-  <a href="https://github.com/SkyRex06">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SkyRex06&repo=SkyRex06&theme=gruvbox"/>
-  </a>
-</p>
+🏆 Devfolio: YOUR_DEVFOLIO_LINK
+
+🌐 Portfolio: YOUR_PORTFOLIO_LINK
+
+📧 Email: shivamprasad5953@gmail.com
 
 ---
 
-
+> "Build things that matter. Learn relentlessly. Ship relentlessly."
