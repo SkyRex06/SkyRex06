@@ -9,7 +9,7 @@ I've developed a strong builder mindset—learning quickly, collaborating effect
 <!-- IMAGE 1: Professional Photo OR Best Hackathon Winning Photo -->
 
 <p align="center">
-  <img src="IMG-20251008-WA0026.jpg" width="850"/>
+  <img src="IMG-20251008-WA0026.jpg" width="500"/>
 </p>
 
 ## About Me
@@ -25,22 +25,11 @@ My interests currently lie at the intersection of:
 - Product Development
 - Scalable Systems
 - Emerging Technologies
----
 
-<!-- IMAGE 2: Project Collage (Dashboard screenshots, product UI, architecture diagrams) -->
 
 <p align="center">
-  <img src="1746696814590.jpeg" width="850"/>
-</p>
-
-I enjoy bringing ambitious people together and creating environments where ideas can turn into impactful products.
-
----
-
-<!-- IMAGE 3: Workshop / Event Organising Photo -->
-
-<p align="center">
-  <img src="1746696814590.jpeg" width="850"/>
+  <img src="1746696814477.jpeg" width="48%" />
+  <img src="1746696814590.jpeg" width="48%" />
 </p>
 
 ## Hackathons
@@ -55,11 +44,7 @@ I enjoy bringing ambitious people together and creating environments where ideas
 
 ---
 
-<!-- IMAGE 4: Team Photo / Hackathon Stage Photo -->
 
-<p align="center">
-  <img src="YOUR_HACKATHON_PHOTO_HERE" width="850"/>
-</p>
 
 ## Tech I Work With
 
@@ -86,11 +71,6 @@ REST APIs • System Design
 ## Connect With Me
 
 💼 LinkedIn: www.linkedin.com/in/skyrex06
-
-🏆 Devfolio: YOUR_DEVFOLIO_LINK
-
-🌐 Portfolio: YOUR_PORTFOLIO_LINK
-
 📧 Email: shivamprasad5953@gmail.com
 
 ---
