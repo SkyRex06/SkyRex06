@@ -1,16 +1,15 @@
 # Hey, I'm Shivam 👋
 
 ### AI & Data Science Undergraduate @ GGSIPU
-### Vice President @ AI Renaissance
 
-Building AI-powered products, scalable systems, and innovative solutions that solve real-world problems.
+I've developed a strong builder mindset—learning quickly, collaborating effectively, and shipping products that create real impact.
 
 ---
 
 <!-- IMAGE 1: Professional Photo OR Best Hackathon Winning Photo -->
 
 <p align="center">
-  <img src="YOUR_IMAGE_HERE" width="850"/>
+  <img src="IMG-20251008-WA0026.jpg" width="850"/>
 </p>
 
 ## About Me
@@ -26,30 +25,13 @@ My interests currently lie at the intersection of:
 - Product Development
 - Scalable Systems
 - Emerging Technologies
-
----
-
-## Currently Building
-
-🚀 AI-Powered Retail Forecasting Platform
-
-🌌 Exoplanet Prediction System
-
-⛓️ Blockchain-Based Voting Platform
-
-🧠 Exploring AI Agents & Intelligent Systems
-
 ---
 
 <!-- IMAGE 2: Project Collage (Dashboard screenshots, product UI, architecture diagrams) -->
 
 <p align="center">
-  <img src="YOUR_PROJECT_COLLAGE_HERE" width="850"/>
+  <img src="1746696814590.jpeg" width="850"/>
 </p>
-
-## Community & Leadership
-
-As Vice President of AI Renaissance, I work on fostering a builder culture by organizing workshops, hackathons, technical sessions, and community initiatives that help students learn, build, and grow together.
 
 I enjoy bringing ambitious people together and creating environments where ideas can turn into impactful products.
 
@@ -58,7 +40,7 @@ I enjoy bringing ambitious people together and creating environments where ideas
 <!-- IMAGE 3: Workshop / Event Organising Photo -->
 
 <p align="center">
-  <img src="YOUR_LEADERSHIP_PHOTO_HERE" width="850"/>
+  <img src="1746696814590.jpeg" width="850"/>
 </p>
 
 ## Hackathons
