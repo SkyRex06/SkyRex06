@@ -29,7 +29,7 @@ My interests currently lie at the intersection of:
 
 <p align="center">
   <img src="1746696814477.jpeg" width="48%" />
-  <img src="1746696814590.jpeg" width="48%" />
+  <img src="" width="48%" />
 </p>
 
 ## Hackathons
